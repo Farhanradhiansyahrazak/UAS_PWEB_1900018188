@@ -36,7 +36,7 @@
 	<script src="js/bootstrap.min.js"></script>
 	
 	<div>
-		<footer style=" width: 1170px; height: 18px; margin-left: 11.5%;  	text-align: center;   background-color: #0a0908;color: white; ">Copyright Farhan Radhiansyah Razak - 1900018188 </footer>
+		<footer style=" width: 100%; height: 20px; text-align: center;   background-color: #0a0908;color: white; ">Copyright Farhan Radhiansyah Razak - 1900018188 </footer>
 	</div>
 </body>
 </html>

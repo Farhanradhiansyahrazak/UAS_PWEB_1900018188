@@ -1,17 +1,18 @@
 body {
 	padding-top: 70px;
-		background-color: black;
+	background-color: #43aa8b;
 }
 
 .body {
 	padding: 20px;
+	background-color: #f77f00;
 }
 
 .gal {
 	-webkit-column-count: 4; /* Chrome, Safari, Opera */
     -moz-column-count: 4; /* Firefox */
     column-count: 4;
-    background: blue;
+    background: #f77f00;
 }	
 .gal img{
 	width: 100%; padding: 7px 0;
